@@ -1,0 +1,57 @@
+@media (max-width: 805px) {
+
+  .container-principal{
+    background: var(--color-background) url(../images/bg-mobile.svg) repeat-x;
+    margin: auto;
+    height: 780px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+ 
+  }
+  .header-logo img{
+    width: 100px;
+    margin: 5px;
+
+  }
+  .informativos{
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+
+  }
+  .informativos .info-cadastrar{
+    margin: 0px;
+ 
+  }
+  .informativos .imagem-capa img{
+      width: 300px;
+      margin: 20px 0;
+  }
+  .informativos .info-cadastrar h1{
+    font-size: 1.6rem;
+    margin: 10px 0;
+  }
+  .informativos .info-cadastrar p{
+  font-size: 0.9rem;
+  margin: 0;
+  }
+  .informativos .info-cadastrar input{
+    margin: 30px;
+    }
+  .footer{
+    margin: 0;
+    text-align: center;
+  }
+  .info-cadastrar input{
+    width:70%; 
+  }
+  .social a i{
+  font-size: 1.0rem;
+  width:33px;
+  height:33px;
+  border:solid 0.1rem var(--cor-fonts);
+  }
+}
