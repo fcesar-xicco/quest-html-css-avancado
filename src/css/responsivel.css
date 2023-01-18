@@ -4,29 +4,30 @@
         background: var(--color-predominante) url(../images/bg-mobile.svg) no-repeat;
         height: 100vh;
         padding: 20px 0;
+        
 
     }
     .img-logo img{
         padding: 20px 0;
         width: 150px;
-        margin-bottom: 20px;
+        margin-bottom:20px;
     }
     .container-principal{
         margin: 0px;
-        width: 375px;
-        height: 100vh;
+        width: 100%;
+        height: 800px;
+        padding: 0px 15px;
         flex-direction: column;
         align-items: center;
         
     }
     .aba-logos{
-        width: 100vw;
-        height: 100vh;
+        width: 100%;
         margin: 0;
     }
     .aba-informativo {
         margin: 0;
-        width: 100vw;
+        width: 100%;
         height: 100vh;
         text-align: center;
         flex-direction: column;
