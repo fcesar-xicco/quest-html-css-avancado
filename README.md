@@ -19,5 +19,5 @@
 
 ## Exemplos:
 
-<img src="./active-states.jpg" alt="imagens  teste desktop">
-<img src="./mobile-design.jpg" alt="imagens  teste desktop">
+[<img src="./src/active-states.jpg" alt="imagens  teste desktop">]
+[<img src="./src/mobile-design.jpg" alt="imagens  teste desktop">]
